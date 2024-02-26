@@ -1,1 +1,1 @@
-urls = ["https://hands.ru/company/about", "https://repetitors.info"]
+urls = ["https://repetitors.info"]
